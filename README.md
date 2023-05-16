@@ -1,4 +1,5 @@
 # Auto-Mouse
+Created on Fri Jul 10 12:57:12 2020
 Automate Mouse movement every X minutes for how many hours you want.
 
 Note: Use Spyder to run this instead of jupyter notebook
